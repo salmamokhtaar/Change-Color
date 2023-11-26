@@ -16,3 +16,10 @@ button{
     border-radius: 50%;
     border: 2px black solid;
 }
+img{
+    width: 200px;
+    display: none;
+}
+.off{
+    display: block;
+}
